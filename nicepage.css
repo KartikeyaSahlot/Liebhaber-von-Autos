@@ -36368,17 +36368,17 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 118px;
+    min-height: 136px;
   }
 
   .u-header .u-menu-1 {
     margin-top: 24px;
     margin-right: auto;
-    margin-left: -37px;
+    margin-left: 31px;
   }
 
   .u-header .u-search-1 {
-    width: 314px;
+    width: 229px;
     margin-top: -38px;
     margin-right: -2px;
     margin-left: auto;
