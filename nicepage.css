@@ -36322,7 +36322,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-menu-1 {
   font-family: size-14;
-  margin: 18px 0 0 auto;
+  margin: 18px 11px 0 auto;
 }
 
 .u-header .u-nav-1 {
@@ -36346,7 +36346,7 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 1199px) {
   .u-header .u-menu-1 {
     width: auto;
-    margin-right: 0;
+    margin-right: 11px;
   }
 
   .u-header .u-search-1 {

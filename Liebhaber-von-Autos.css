@@ -177,24 +177,47 @@
 
 @media (max-width: 991px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 711px;
+    min-height: 1550px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-top: 54px;
   }
 
   .u-section-2 .u-layout-cell-1 {
-    min-height: 100px;
+    min-height: 922px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-bottom: 8px;
   }
 
   .u-section-2 .u-text-2 {
+    margin-top: 13px;
     margin-left: 0;
     margin-right: 0;
   }
 
   .u-section-2 .u-layout-cell-2 {
-    min-height: 100px;
+    min-height: 922px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-bottom: 1px;
+  }
+
+  .u-section-2 .u-text-3 {
+    width: auto;
+    margin-top: 26px;
+    margin-left: 10px;
+    margin-right: 10px;
   }
 
   .u-section-2 .u-gallery-1 {
     height: 455px;
+    margin-top: 69px;
   }
 
   .u-section-2 .u-gallery-inner-1 {
@@ -204,7 +227,15 @@
 
 @media (max-width: 767px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 1380px;
+    min-height: 2219px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 100px;
   }
 
   .u-section-2 .u-container-layout-2 {
@@ -223,7 +254,7 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 1001px;
+    min-height: 1840px;
   }
 
   .u-section-2 .u-layout-cell-2 {
@@ -231,8 +262,8 @@
   }
 
   .u-section-2 .u-text-3 {
-    width: auto;
-    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-2 .u-gallery-1 {
@@ -672,7 +703,7 @@
 
 @media (max-width: 1199px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 1758px;
+    min-height: 1780px;
   }
 
   .u-section-5 .u-text-1 {
@@ -697,16 +728,20 @@
   }
 
   .u-section-5 .u-image-1 {
-    margin-top: 72px;
+    margin-top: 77px;
+    margin-right: auto;
+    margin-left: -19px;
   }
 
   .u-section-5 .u-image-2 {
-    margin-top: 19px;
-    margin-right: 24px;
+    margin-top: 23px;
+    margin-right: 0;
+    margin-left: auto;
   }
 
   .u-section-5 .u-image-3 {
-    margin-top: 30px;
+    margin-top: 40px;
+    margin-bottom: 41px;
   }
 }
 
